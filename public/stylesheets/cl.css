@@ -1,0 +1,39 @@
+.cl{
+    width: 100vw;
+    height: 150vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    background-image: url('/images/cll.jpg');
+    background-size: contain;
+    
+    
+}
+.yearbx{
+    height: 30vh;
+    width: 20vw;
+    margin: 20px;
+    background-color: beige;
+    border-radius: 5px;
+    opacity: 1;
+    display: grid;
+    object-fit: contain;
+}
+
+.conn img {
+    width: 20vw;
+    height: 25vh;
+    object-fit: cover;
+
+}
+
+.year{
+    font-family: poppins;
+    font-weight: 600;
+    text-align: center;
+    background-color: black;
+    color: pink;
+    height: 5vh;
+    font-size: x-large;
+}

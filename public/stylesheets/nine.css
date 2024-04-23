@@ -1,0 +1,35 @@
+.box{
+    height: 130vh;
+    width: 100vw;
+    display: grid;
+    
+}
+
+
+
+.cont{
+   
+    height: 110vh;
+    width: 100vw;
+}
+
+.cont img{
+    height: 110vh;
+    width: 100vw;
+    object-fit: cover;
+}
+
+.text{
+    
+    width: 100vw;
+    background-color: black;
+    font-size: xx-large;
+    color: white;
+    text-decoration: solid;
+    text-align: center;
+    margin-top: -70px;
+}
+.span{
+  
+    margin-top: 35px;
+}
